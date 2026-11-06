@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.thefrenchequation.com/sitemap.xml
+Sitemap: https://thefrenchequation.com/sitemap.xml
